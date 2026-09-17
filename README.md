@@ -13,7 +13,8 @@
 
 - ⚡ Fun fact **I build desktop apps and convert coffee into clean code**
 
-<p align="left">
+<p align="center">
+  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" alt="Cat Coding" width="300">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
