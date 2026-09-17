@@ -13,7 +13,6 @@
 
 - ⚡ Fun fact **I build desktop apps and convert coffee into clean code**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
