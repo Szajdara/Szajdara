@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Python Desktop Tools & Web Apps**
 
-- 💬 Ask me about **Python, PyQt6, PHP, C++, C# & SQLite**
+- 💬 Languages I speak: **C++ (Native), Ukrainian (Native), Russian (Native), Polish (C3), English (B2 - currently learning), German (B1 - currently learning)**
 
 - 📫 How to reach me **matroskin.usatyj2009@gmail.com**
 
